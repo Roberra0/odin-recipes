@@ -1,0 +1,50 @@
+body {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    font-family:'Times New Roman', Times, serif
+}
+
+.one {
+    border: 2px solid blue;
+    padding: 100px, 100px;
+    /* margin: auto; */
+    height: 200px;
+    width: 200px;
+    /* border-sizing: border-box; */
+
+}
+
+.recipeCard {
+    background-color: rgba(31, 29, 29, 0.186);
+    width: 40%;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: auto;
+}
+
+.green {
+    background-color: green;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.yellow {
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.red {
+    background-color: red;
+    border-radius: 5px;
+    padding: 10px;
+}
